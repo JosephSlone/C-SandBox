@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1522355175 source:d:\cardbox\box sync\personal\c++\trie\main.cpp
+	<iostream>
+	"trie.h"
+
+1522355193 source:d:\cardbox\box sync\personal\c++\trie\src\trie.cpp
+	"trie.h"
+	<iostream>
+
+1522354792 d:\cardbox\box sync\personal\c++\trie\include\trie.h
+	<map>
+	<string>
+
+1522427846 source:d:\cardbox\box sync\personal\c++\c-sandbox\trie\main.cpp
+	<iostream>
+	"trie.h"
+
+1522426127 d:\cardbox\box sync\personal\c++\c-sandbox\trie\include\trie.h
+	<map>
+	<string>
+
+1522422425 source:d:\cardbox\box sync\personal\c++\c-sandbox\trie\src\trie.cpp
+	"trie.h"
+	<iostream>
+
