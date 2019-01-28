@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523637375 source:d:\cardbox\box sync\personal\c++\c-sandbox\console_io\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

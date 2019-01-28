@@ -1,0 +1,31 @@
+Please type something: You Typed: This is a test file
+Breaking it into words delimited by spaces: 
+This
+is
+a
+test
+file
+Please type something else ['END' Exits]: You Typed: This is another line
+Breaking it into words delimited by spaces: 
+This
+is
+another
+line
+Please type something else ['END' Exits]: You Typed: 1 2 3 4 5
+Breaking it into words delimited by spaces: 
+1
+2
+3
+4
+5
+Please type something else ['END' Exits]: You Typed: 5 4 3 2 1
+Breaking it into words delimited by spaces: 
+5
+4
+3
+2
+1
+Please type something else ['END' Exits]: You Typed: 
+Breaking it into words delimited by spaces: 
+1
+Please type something else ['END' Exits]: You Typed: END
